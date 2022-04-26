@@ -1,0 +1,8 @@
+com/bourseview/m/twa/Application.java
+ com.bourseview.m.twa.Application
+com/bourseview/m/twa/LauncherActivity.java
+ com.bourseview.m.twa.LauncherActivity
+com/bourseview/m/twa/BuildConfig.java
+ com.bourseview.m.twa.BuildConfig
+com/bourseview/m/twa/DelegationService.java
+ com.bourseview.m.twa.DelegationService

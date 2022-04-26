@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Danial\\Documents\\BourseView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my\\values-my.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Danial\\.gradle\\caches\\transforms-3\\ed0a145e35d2c5868bb2bc38d402ed68\\transformed\\core-1.1.0\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "492",
+                        "endColumns": "100",
+                        "endOffsets": "588"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Danial\\.gradle\\caches\\transforms-3\\664485182b2d05376f5580f98339660d\\transformed\\browser-1.4.0\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,164,270,385",
+                        "endColumns": "108,105,114,106",
+                        "endOffsets": "159,265,380,487"
+                    }
+                }
+            ]
+        }
+    ]
+}
